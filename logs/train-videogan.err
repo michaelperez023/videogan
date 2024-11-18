@@ -1,0 +1,3 @@
+slurmstepd: error: *** JOB 29494598 ON c0909a-s35 CANCELLED AT 2022-04-23T23:40:46 ***
+/blue/ctolerfranklin/michaelperez012/videogan-venv/lib/python3.8/site-packages/torch/nn/_reduction.py:42: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
